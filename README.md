@@ -1,2 +1,2 @@
 # goldrone_android_dronecontroller_drone
-drone controller joystick 
+connect drone and arduino
